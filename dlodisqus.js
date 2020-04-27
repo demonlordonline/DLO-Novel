@@ -1,4 +1,3 @@
-<script type='text/javascript'>
 var disqus_shortname = &quot;dlo-novel&quot;;
 var disqus_blogger_current_url = &quot;<data:blog.canonicalUrl/>&quot;;
 if (!disqus_blogger_current_url.length) {
@@ -20,4 +19,3 @@ bloggerjs.async = true;
 bloggerjs.src = &quot;//&quot;+disqus_shortname+&quot;.disqus.com/blogger_index.js&quot;;
 (document.getElementsByTagName(&quot;head&quot;)[0] || document.getElementsByTagName(&quot;body&quot;)[0]).appendChild(bloggerjs);
 })();
-</script>
